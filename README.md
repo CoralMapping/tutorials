@@ -37,3 +37,7 @@ The `eez_percent_distribution_tutorial.ipynb` notebook demonstrates how to calcu
 #### Marine Protected Areas Percent Distribution Tutorial
 
 Similar to the previous totorial, the `protected_areas_tutorial.ipynb` notebook retrieves benthic and geomorphic habitat data for the Tonga EEZ, but also computes and visualizes the distribution of habitat data both inside and outside established Marine Protected Areas (MPAs).
+
+#### Acknowledgements
+
+Many thanks to our outstanding intern [Diana Nguyen](https://github.com/dnguye2) for creating these tutorials.
