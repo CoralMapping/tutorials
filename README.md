@@ -15,6 +15,10 @@ These tutorials are written in Python and run in [Jupyter Notebooks](https://jup
     ```
     conda activate tutorials
     ```
+1. One dependency version cannot be installed using `conda`.  In stall it using `pip`
+    ```
+    pip install OWSLib==0.25.0
+    ```
 1. Start the Jupyter notebook
     ```
     jupyter notebook
